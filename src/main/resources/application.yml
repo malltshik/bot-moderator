@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: local
+channel:
+  type: telegram
+telegram:
+  token: secret
+news-api:
+  token: secret
